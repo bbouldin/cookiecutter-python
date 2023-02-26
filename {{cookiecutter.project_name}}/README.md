@@ -23,3 +23,5 @@ Testing new line in template
 Another new line added in template.
 
 Yet another new line added in template.
+
+Even more added in the template
