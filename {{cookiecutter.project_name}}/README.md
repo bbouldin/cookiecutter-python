@@ -19,3 +19,5 @@ _________________
 
 
 Testing new line in template 
+
+Another new line added in template.
