@@ -16,3 +16,6 @@ _________________
 _________________
 
 **{{cookiecutter.project_name}}** {{cookiecutter.description}}
+
+
+Testing new line in template 
