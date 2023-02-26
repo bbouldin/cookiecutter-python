@@ -16,5 +16,3 @@ _________________
 _________________
 
 **{{cookiecutter.project_name}}** {{cookiecutter.description}}
-
-Test new line
